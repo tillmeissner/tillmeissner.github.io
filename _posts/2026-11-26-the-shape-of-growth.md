@@ -5,6 +5,7 @@ date: 2026-11-26 00:00:00
 description: "Africa's largest cities got denser, but they also got lower and spread onto farmland and forest. Satellite data on 100 cities since 1990 show how they grew, and what it would take to pay for the cities still to be built."
 tags: urbanisation africa remote-sensing ghsl interactive
 categories: data-stories
+og_image: https://tillmeissner.com/assets/img/buildupexpansion_10km.jpeg
 related_posts: false
 _styles: >
   #ug-scrolly { position: relative; margin: 2rem 0; }
