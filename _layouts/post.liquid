@@ -2,7 +2,8 @@
 layout: default
 ---
 {% assign year = page.date | date: '%Y' %}
-{% assign tags = page.tags | join: '' %}
+{% comment %} Tags hidden on purpose; only categories are shown. Restore with: page.tags | join: '' {% endcomment %}
+{% assign tags = '' %}
 {% assign categories = page.categories | join: '' %}
 {% assign url_beginning = page.url | slice: 0, 6 %}
 
