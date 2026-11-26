@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "The Shape of Growth: Tracing African Urbanisation",
         
-        description: "Africa&#39;s largest cities more than doubled their population since 1990 but added far less land. An interactive look at how 100 cities grew, using GHSL built-up and population data.",
+        description: "Africa&#39;s largest cities got denser, but they also got lower and spread onto farmland and forest. Satellite data on 100 cities since 1990 show how they grew, and what it would take to pay for the cities still to be built.",
         section: "Posts",
         handler: () => {
           
